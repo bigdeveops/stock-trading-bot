@@ -1,1 +1,3 @@
-
+ALP_API_ID=""
+ALP_SECRET_KEY=""
+NEWS_API_KEY=""
